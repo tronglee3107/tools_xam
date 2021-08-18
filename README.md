@@ -1,6 +1,6 @@
 How it works:
 	- Step 1: Capture screen continuously
-	- Step 2: Using openCV to detect exclamation mark by it color
+	- Step 2: Using openCV to detect exclamation mark by its color
 	- Step 3: Make other step using pyautogui
 
 

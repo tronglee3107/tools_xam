@@ -1,7 +1,7 @@
 How it works:
 	- Step 1: Capture screen continuously
 	- Step 2: Using openCV to detect exclamation mark by its color
-	- Step 3: Make other step using pyautogui
+	- Step 3: Follow the game logic using pyautogui
 
 
 How to use:
@@ -10,4 +10,4 @@ How to use:
 	- Open stimulator and let the program running
 
 ---------------------------------------------------------
-Code written by trongIT19.
+Written by tronglee3107.
